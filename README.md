@@ -189,14 +189,12 @@ Unlike collaborative filtering (which uses user ratings), this approach recommen
 **Gajavada Vishnu**
 M.Tech Integrated Software Engineering — VIT Vellore (2021–2026)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishnu%20Gajavada-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/vishnugajavada)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishnu%20Gajavada-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/vishnu-gajavada-380631279/)
 [![GitHub](https://img.shields.io/badge/GitHub-vishnugajavada-181717?style=flat&logo=github)](https://github.com/vishnugajavada)
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
