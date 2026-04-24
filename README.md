@@ -7,7 +7,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.x-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-TF--IDF-4B8BBE?style=flat)
 ![TMDB](https://img.shields.io/badge/API-TMDB-01B4E4?style=flat&logo=themoviedatabase&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat)
+
 
 ---
 
