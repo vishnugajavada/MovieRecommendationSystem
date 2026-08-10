@@ -38,26 +38,6 @@ This project recommends movies based on **content similarity** — analyzing mov
 
 ---
 
-## 📁 Project Structure
-
-```
-movie-recommendation-system/
-│
-├── app.py                  # Streamlit web application
-├── recommender.py          # Core recommendation logic
-├── preprocess.py           # Data cleaning and feature engineering
-├── fetch_data.py           # TMDB API data collection
-│
-├── data/
-│   ├── movies.csv          # Processed movie dataset
-│   └── similarity.pkl      # Cached cosine similarity matrix
-│
-├── requirements.txt
-└── README.md
-```
-
----
-
 ## ⚙️ How It Works
 
 **1. Data Collection**
